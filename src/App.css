@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .topContainer {
   display: flex;
   justify-content: space-between;
